@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1726EDF-DA6D-4072-8559-C35E4A47762E}|C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects.vcxproj|C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1726EDF-DA6D-4072-8559-C35E4A47762E}|C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects.vcxproj|solutionrelative:C\u002B\u002B Task Projects\\Task8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1726EDF-DA6D-4072-8559-C35E4A47762E}|C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects.vcxproj|C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1726EDF-DA6D-4072-8559-C35E4A47762E}|C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects.vcxproj|solutionrelative:C\u002B\u002B Task Projects\\Task7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1726EDF-DA6D-4072-8559-C35E4A47762E}|C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects.vcxproj|C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1726EDF-DA6D-4072-8559-C35E4A47762E}|C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects.vcxproj|solutionrelative:C\u002B\u002B Task Projects\\Task6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1726EDF-DA6D-4072-8559-C35E4A47762E}|C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects.vcxproj|C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1726EDF-DA6D-4072-8559-C35E4A47762E}|C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects.vcxproj|solutionrelative:C\u002B\u002B Task Projects\\Task5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1726EDF-DA6D-4072-8559-C35E4A47762E}|C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects.vcxproj|C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1726EDF-DA6D-4072-8559-C35E4A47762E}|C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects.vcxproj|solutionrelative:C\u002B\u002B Task Projects\\Task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1726EDF-DA6D-4072-8559-C35E4A47762E}|C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects.vcxproj|C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1726EDF-DA6D-4072-8559-C35E4A47762E}|C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects.vcxproj|solutionrelative:C\u002B\u002B Task Projects\\Task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1726EDF-DA6D-4072-8559-C35E4A47762E}|C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects.vcxproj|C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1726EDF-DA6D-4072-8559-C35E4A47762E}|C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects.vcxproj|solutionrelative:C\u002B\u002B Task Projects\\Task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1726EDF-DA6D-4072-8559-C35E4A47762E}|C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects.vcxproj|C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1726EDF-DA6D-4072-8559-C35E4A47762E}|C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects.vcxproj|solutionrelative:C\u002B\u002B Task Projects\\Task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task4.cpp",
+              "DocumentMoniker": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task4.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B Task Projects\\Task4.cpp",
+              "ToolTip": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task4.cpp",
+              "RelativeToolTip": "C\u002B\u002B Task Projects\\Task4.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T09:16:17.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task5.cpp",
+              "DocumentMoniker": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task5.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B Task Projects\\Task5.cpp",
+              "ToolTip": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task5.cpp",
+              "RelativeToolTip": "C\u002B\u002B Task Projects\\Task5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T09:16:36.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task6.cpp",
+              "DocumentMoniker": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task6.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B Task Projects\\Task6.cpp",
+              "ToolTip": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task6.cpp",
+              "RelativeToolTip": "C\u002B\u002B Task Projects\\Task6.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T09:16:27.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task7.cpp",
+              "DocumentMoniker": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task7.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B Task Projects\\Task7.cpp",
+              "ToolTip": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task7.cpp",
+              "RelativeToolTip": "C\u002B\u002B Task Projects\\Task7.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T09:16:48.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task2.cpp",
+              "DocumentMoniker": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task2.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B Task Projects\\Task2.cpp",
+              "ToolTip": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task2.cpp",
+              "RelativeToolTip": "C\u002B\u002B Task Projects\\Task2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T09:15:44.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task8.cpp",
+              "DocumentMoniker": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task8.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B Task Projects\\Task8.cpp",
+              "ToolTip": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task8.cpp",
+              "RelativeToolTip": "C\u002B\u002B Task Projects\\Task8.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T09:16:58.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task3.cpp",
+              "DocumentMoniker": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task3.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B Task Projects\\Task3.cpp",
+              "ToolTip": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task3.cpp",
+              "RelativeToolTip": "C\u002B\u002B Task Projects\\Task3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T09:16:03.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task1.cpp",
+              "DocumentMoniker": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task1.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B Task Projects\\Task1.cpp",
+              "ToolTip": "C:\\Users\\Tahae\\OneDrive\\Desktop\\230201042\\C\u002B\u002B Task Projects\\C\u002B\u002B Task Projects\\Task1.cpp",
+              "RelativeToolTip": "C\u002B\u002B Task Projects\\Task1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T08:10:36.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
